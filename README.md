@@ -22,7 +22,7 @@ El repositorio está organizado de la siguiente manera:
 -  datos/
 - customer_flight_activity.csv: Archivo CSV que contiene información sobre los clientes fidelizados según su actividad de vuelos.
 -   customer_loyalty_history.csv: Archivo CSV que contiene información sobre los clientes fidelizados como datos más personales y el tipo de fidelización adquirida.
--   final.ipynb: jupyter con el la extraccion y limpieza de datos.
+-   evaluacion_final.ipynb: jupyter con el la extraccion y limpieza de datos.
 -   README.md: Este archivo README que proporciona una descripción general del proyecto.
 
 ## Fechas 🕘
@@ -30,16 +30,21 @@ El repositorio está organizado de la siguiente manera:
 La prueba técnica comienza el viernes 5 de Abril y debe estar subida en GitHub como tarde el lunes 8 de abril a las 8h30. Se evalúa el mismo lunes para explicar y defender la metodología desarrollada.  
 
 
-
 ## Skills 🛠
 
-Para el desarrollo de la prueba , hemos utilizado:
- -  Python , lenguaje de programación.
+Para el desarrollo de la prueba , he utilizado:
+
+ - Python , lenguaje de programación.
  - Visual Studio Code para su codificación.
- - Librerias : pandas, numpy , matplotlib , seaborn 
+ - Librerias : pandas, numpy , matplotlib , seaborn ,scipy, sklearn...
 
 Recursos : apuntes del módulo e internet. 
 
 ## GitHub 🕹️
  
 https://github.com/Adalab/bda-modulo-3-evaluacion-final-JohannaRL.git
+
+## Next steps 
+
+- Seguir explorando los datos y valorar si son necesarios más cambios y ampliar la limpieza.
+- Ampliar más pruebas estadísticas para encontrar diferentes patrones y saber donde enfocar el area a estudiar y focalizar la mejora.
